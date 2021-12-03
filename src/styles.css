@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input[type="text"] {
+  background-color: black;
+  text-align: right;
+  color: white;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.tamaño {
+  width: 50px;
+  height: 50px;
+}
+
+.color {
+  background-color: coral;
+}
+.tBoton {
+  width: 100px;
+  height: 50px;
+}
+.orientacion {
+  margin-left: 42.8%;
+  margin-right: 48%;
+  width: 193px;
+  height: 50px;
+}
